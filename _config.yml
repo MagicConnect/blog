@@ -32,7 +32,7 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://blog.magic-connect.com'
 
 github:
-  username: github_username             # change to your github username
+  username: magicconnect             # change to your github username
 
 twitter:
   username: magicongame            # change to your twitter username
@@ -44,6 +44,7 @@ social:
   email: contact@magic-connect.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - mailto:contact@magic-connect.com
     - https://twitter.com/magicongame      # change to your twitter homepage
     - https://facebook.com/magicongame      # change to your twitter homepage
     - https://reddit.com/r/magicongame       # change to your github homepage
